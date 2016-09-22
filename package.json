@@ -1,0 +1,23 @@
+{
+  "name": "sd-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CacheService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slicedice/sd-cache.git"
+  },
+  "keywords": [
+    "angular",
+    "cache"
+  ],
+  "author": "maxwellium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slicedice/sd-cache/issues"
+  },
+  "homepage": "https://github.com/slicedice/sd-cache#readme"
+}
