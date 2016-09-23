@@ -3,9 +3,9 @@ import Cache from './Cache';
 export default class CacheService {
 
   constructor( $q ) {
+    'ngInject';
 
     this.$q = $q;
-
     this.stores = {};
 
   }
