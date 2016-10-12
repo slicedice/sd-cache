@@ -1,4 +1,4 @@
-import CacheService from './CacheService';
+import CacheService from './lib/CacheService';
 
 angular
   .module( 'sd-cache', [] )
