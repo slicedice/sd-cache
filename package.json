@@ -1,6 +1,6 @@
 {
   "name": "sd-cache",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -43,7 +43,9 @@
   },
   "esformatter": {
     "root": true,
-    "plugins": ["esformatter-align"],
+    "plugins": [
+      "esformatter-align"
+    ],
     "collapseObjects": {
       "ObjectExpression": {
         "maxLineLength": 80,
